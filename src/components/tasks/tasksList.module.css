@@ -36,6 +36,11 @@ li {
     align-items: center;
 }
 
+.item:hover {
+    cursor: pointer;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
 .title {
     font-size: 12px;
     font-weight: bold;
